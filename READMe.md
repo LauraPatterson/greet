@@ -1,5 +1,5 @@
-#Simple Greeting Test
-##Test Cases
+# Simple Greeting Test
+## Test Cases
 1. The function returns a simple greeting with the name parameter. e.g. "Hello, Elizabeth"
 2. If the name parameter is null, the function returns "Hello there!"
 3. If the name parameter is ALL CAPS, the function returns "HELLO [NAME]!"
